@@ -14,7 +14,7 @@ test_suite(test suite name){
 }end_suite
 ```
 
-test cases are declared as follows
+test cases are declared as
 ```
 test_case(test case name)
 //whatever
