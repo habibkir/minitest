@@ -1,4 +1,4 @@
-# easytest
+# minitest
 a stupidly barebone unit testing tool, for whenever you just need a fancy way to check "is this ok?" and not much more
 
 test suites are declared as
