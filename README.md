@@ -1,5 +1,6 @@
 # minitest
 a stupidly barebone unit testing tool, for whenever you just need a fancy way to check "is this ok?" and not much more
+there is one header and it only declares some test macros, the rest is up to the user
 
 test suites are declared as
 ```
@@ -34,4 +35,4 @@ exp_eq(expected, actual) //doesn't
 ass_t(value) //aborts on false
 exp_t(value) //doesn't
 ```
-that's it
+some more things might be added later
